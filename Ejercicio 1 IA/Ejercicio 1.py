@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 # Vamos a desarrollar un programa de machine learning (básico)
 # El siguiente es un paquete de datos a ser procesdos:
-# La primera columna es: Número de horas
+# La primera columna es: Número de hora
 # La segunda columna es: Número de tareas ejecutadas
 
 data = np.genfromtxt("web_traffic.tsv", delimiter="\t")
