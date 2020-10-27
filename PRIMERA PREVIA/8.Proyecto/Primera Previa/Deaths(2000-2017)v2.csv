@@ -1,0 +1,936 @@
+﻿Year,113 Cause Name,Cause Name,State,Deaths,Age-adjusted Death Rate
+1,Alzheimer's disease (G30),Alzheimer's disease,Alabama,2563,452
+2,Alzheimer's disease (G30),Alzheimer's disease,Alaska,98,221
+3,Alzheimer's disease (G30),Alzheimer's disease,Arizona,3058,351
+4,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1436,394
+5,Alzheimer's disease (G30),Alzheimer's disease,California,16238,371
+6,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1830,342
+7,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,1077,204
+8,Alzheimer's disease (G30),Alzheimer's disease,Delaware,377,306
+9,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,125,176
+10,Alzheimer's disease (G30),Alzheimer's disease,Florida,6980,207
+11,Alzheimer's disease (G30),Alzheimer's disease,Georgia,4290,460
+12,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,465,197
+13,Alzheimer's disease (G30),Alzheimer's disease,Idaho,672,366
+14,Alzheimer's disease (G30),Alzheimer's disease,Illinois,4021,256
+15,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2771,353
+16,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1597,353
+17,Alzheimer's disease (G30),Alzheimer's disease,Kansas,894,243
+18,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1765,350
+19,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,2188,437
+20,Alzheimer's disease (G30),Alzheimer's disease,Maine,601,304
+21,Alzheimer's disease (G30),Alzheimer's disease,Maryland,1191,171
+22,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1841,199
+23,Alzheimer's disease (G30),Alzheimer's disease,Michigan,4428,345
+24,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,2474,349
+25,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,1626,496
+26,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2545,323
+27,Alzheimer's disease (G30),Alzheimer's disease,Montana,285,209
+28,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,698,285
+29,Alzheimer's disease (G30),Alzheimer's disease,Nevada,779,273
+30,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,436,248
+31,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,2829,236
+32,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,572,227
+33,Alzheimer's disease (G30),Alzheimer's disease,New York,3521,132
+34,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,4289,373
+35,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,387,365
+36,Alzheimer's disease (G30),Alzheimer's disease,Ohio,5117,336
+37,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1752,394
+38,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1850,360
+39,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,4213,217
+40,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,435,273
+41,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2549,450
+42,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,444,369
+43,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,3522,467
+44,Alzheimer's disease (G30),Alzheimer's disease,Texas,9545,385
+45,Alzheimer's disease (G30),Alzheimer's disease,Utah,991,421
+46,Alzheimer's disease (G30),Alzheimer's disease,Vermont,370,429
+47,Alzheimer's disease (G30),Alzheimer's disease,Virginia,2549,276
+48,Alzheimer's disease (G30),Alzheimer's disease,Washington,3710,460
+49,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,770,306
+50,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2428,316
+51,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,212,327
+52,Alzheimer's disease (G30),Alzheimer's disease,Alabama,2507,450
+53,Alzheimer's disease (G30),Alzheimer's disease,Alaska,111,258
+54,Alzheimer's disease (G30),Alzheimer's disease,Arizona,3082,358
+55,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1475,413
+56,Alzheimer's disease (G30),Alzheimer's disease,California,15570,361
+57,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1835,347
+58,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,1035,203
+59,Alzheimer's disease (G30),Alzheimer's disease,Delaware,329,274
+60,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,120,183
+61,Alzheimer's disease (G30),Alzheimer's disease,Florida,7155,215
+62,Alzheimer's disease (G30),Alzheimer's disease,Georgia,4021,448
+63,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,445,201
+64,Alzheimer's disease (G30),Alzheimer's disease,Idaho,607,339
+65,Alzheimer's disease (G30),Alzheimer's disease,Illinois,3877,254
+66,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2678,349
+67,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1415,313
+68,Alzheimer's disease (G30),Alzheimer's disease,Kansas,855,231
+69,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1728,351
+70,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,2195,450
+71,Alzheimer's disease (G30),Alzheimer's disease,Maine,577,296
+72,Alzheimer's disease (G30),Alzheimer's disease,Maryland,1178,174
+73,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1708,186
+74,Alzheimer's disease (G30),Alzheimer's disease,Michigan,4249,336
+75,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,2219,318
+76,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,1485,458
+77,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2302,300
+78,Alzheimer's disease (G30),Alzheimer's disease,Montana,314,226
+79,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,634,262
+80,Alzheimer's disease (G30),Alzheimer's disease,Nevada,686,246
+81,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,430,248
+82,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,2435,211
+83,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,583,235
+84,Alzheimer's disease (G30),Alzheimer's disease,New York,3349,131
+85,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,4153,372
+86,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,361,353
+87,Alzheimer's disease (G30),Alzheimer's disease,Ohio,5031,334
+88,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1590,361
+89,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1786,348
+90,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,4185,217
+91,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,422,267
+92,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2481,453
+93,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,449,371
+94,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,3250,442
+95,Alzheimer's disease (G30),Alzheimer's disease,Texas,9135,378
+96,Alzheimer's disease (G30),Alzheimer's disease,United States,116103,303
+97,Alzheimer's disease (G30),Alzheimer's disease,Utah,904,393
+98,Alzheimer's disease (G30),Alzheimer's disease,Vermont,310,358
+99,Alzheimer's disease (G30),Alzheimer's disease,Virginia,2408,268
+100,Alzheimer's disease (G30),Alzheimer's disease,Washington,3269,407
+101,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,786,317
+102,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2256,296
+103,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,138,212
+104,Alzheimer's disease (G30),Alzheimer's disease,Alabama,2282,418
+105,Alzheimer's disease (G30),Alzheimer's disease,Alaska,68,167
+106,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2943,358
+107,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1457,415
+108,Alzheimer's disease (G30),Alzheimer's disease,California,15065,357
+109,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1612,313
+110,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,966,190
+111,Alzheimer's disease (G30),Alzheimer's disease,Delaware,264,226
+112,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,129,192
+113,Alzheimer's disease (G30),Alzheimer's disease,Florida,7031,218
+114,Alzheimer's disease (G30),Alzheimer's disease,Georgia,3714,424
+115,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,422,195
+116,Alzheimer's disease (G30),Alzheimer's disease,Idaho,552,316
+117,Alzheimer's disease (G30),Alzheimer's disease,Illinois,3686,244
+118,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2513,331
+119,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1339,299
+120,Alzheimer's disease (G30),Alzheimer's disease,Kansas,865,235
+121,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1694,349
+122,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,2018,425
+123,Alzheimer's disease (G30),Alzheimer's disease,Maine,544,284
+124,Alzheimer's disease (G30),Alzheimer's disease,Maryland,1095,164
+125,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1815,202
+126,Alzheimer's disease (G30),Alzheimer's disease,Michigan,3771,301
+127,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1789,260
+128,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,1402,441
+129,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2173,287
+130,Alzheimer's disease (G30),Alzheimer's disease,Montana,277,207
+131,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,598,248
+132,Alzheimer's disease (G30),Alzheimer's disease,Nevada,874,329
+133,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,432,255
+134,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,2260,198
+135,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,483,199
+136,Alzheimer's disease (G30),Alzheimer's disease,New York,3174,126
+137,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,3803,348
+138,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,376,367
+139,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4643,311
+140,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1498,347
+141,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1652,330
+142,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,4012,210
+143,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,453,288
+144,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2453,462
+145,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,421,348
+146,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,3122,434
+147,Alzheimer's disease (G30),Alzheimer's disease,Texas,8903,382
+148,Alzheimer's disease (G30),Alzheimer's disease,United States,110561,294
+149,Alzheimer's disease (G30),Alzheimer's disease,Utah,906,407
+150,Alzheimer's disease (G30),Alzheimer's disease,Vermont,298,351
+151,Alzheimer's disease (G30),Alzheimer's disease,Virginia,2248,256
+152,Alzheimer's disease (G30),Alzheimer's disease,Washington,3490,444
+153,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,738,300
+154,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2087,275
+155,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,151,242
+156,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1885,353
+157,Alzheimer's disease (G30),Alzheimer's disease,Alaska,68,172
+158,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2485,316
+159,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1193,348
+160,Alzheimer's disease (G30),Alzheimer's disease,California,12644,309
+161,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1364,274
+162,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,923,184
+163,Alzheimer's disease (G30),Alzheimer's disease,Delaware,188,166
+164,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,119,183
+165,Alzheimer's disease (G30),Alzheimer's disease,Florida,5874,188
+166,Alzheimer's disease (G30),Alzheimer's disease,Georgia,2670,317
+167,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,326,150
+168,Alzheimer's disease (G30),Alzheimer's disease,Idaho,376,224
+169,Alzheimer's disease (G30),Alzheimer's disease,Illinois,3266,219
+170,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2204,294
+171,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1313,296
+172,Alzheimer's disease (G30),Alzheimer's disease,Kansas,790,219
+173,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1523,321
+174,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1670,360
+175,Alzheimer's disease (G30),Alzheimer's disease,Maine,434,227
+176,Alzheimer's disease (G30),Alzheimer's disease,Maryland,934,145
+177,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1688,190
+178,Alzheimer's disease (G30),Alzheimer's disease,Michigan,3349,270
+179,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1628,242
+180,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,1098,352
+181,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2053,274
+182,Alzheimer's disease (G30),Alzheimer's disease,Montana,253,192
+183,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,515,219
+184,Alzheimer's disease (G30),Alzheimer's disease,Nevada,606,238
+185,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,396,240
+186,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1962,174
+187,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,442,189
+188,Alzheimer's disease (G30),Alzheimer's disease,New York,2639,107
+189,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,3246,305
+190,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,364,362
+191,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4083,277
+192,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1227,289
+193,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1411,285
+194,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3486,183
+195,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,403,259
+196,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1938,374
+197,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,434,362
+198,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2672,381
+199,Alzheimer's disease (G30),Alzheimer's disease,Texas,6772,300
+200,Alzheimer's disease (G30),Alzheimer's disease,United States,93541,254
+201,Alzheimer's disease (G30),Alzheimer's disease,Utah,584,267
+202,Alzheimer's disease (G30),Alzheimer's disease,Vermont,266,319
+203,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1775,208
+204,Alzheimer's disease (G30),Alzheimer's disease,Washington,3344,436
+205,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,620,255
+206,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1876,250
+207,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,162,266
+208,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1398,267
+209,Alzheimer's disease (G30),Alzheimer's disease,Alaska,72,189
+210,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2383,317
+211,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,918,272
+212,Alzheimer's disease (G30),Alzheimer's disease,California,11891,300
+213,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1316,272
+214,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,824,162
+215,Alzheimer's disease (G30),Alzheimer's disease,Delaware,192,176
+216,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,130,198
+217,Alzheimer's disease (G30),Alzheimer's disease,Florida,5093,169
+218,Alzheimer's disease (G30),Alzheimer's disease,Georgia,2048,250
+219,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,260,126
+220,Alzheimer's disease (G30),Alzheimer's disease,Idaho,347,210
+221,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2919,198
+222,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2104,285
+223,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1252,282
+224,Alzheimer's disease (G30),Alzheimer's disease,Kansas,742,208
+225,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1462,314
+226,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1505,329
+227,Alzheimer's disease (G30),Alzheimer's disease,Maine,401,216
+228,Alzheimer's disease (G30),Alzheimer's disease,Maryland,919,143
+229,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1699,194
+230,Alzheimer's disease (G30),Alzheimer's disease,Michigan,3220,264
+231,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1427,215
+232,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,925,301
+233,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2026,275
+234,Alzheimer's disease (G30),Alzheimer's disease,Montana,267,207
+235,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,557,236
+236,Alzheimer's disease (G30),Alzheimer's disease,Nevada,448,184
+237,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,351,215
+238,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1812,163
+239,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,339,149
+240,Alzheimer's disease (G30),Alzheimer's disease,New York,2556,104
+241,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2872,277
+242,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,363,366
+243,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3798,260
+244,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1145,276
+245,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1312,272
+246,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3271,174
+247,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,346,223
+248,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1623,324
+249,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,418,350
+250,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2536,369
+251,Alzheimer's disease (G30),Alzheimer's disease,Texas,5293,243
+252,Alzheimer's disease (G30),Alzheimer's disease,United States,84767,235
+253,Alzheimer's disease (G30),Alzheimer's disease,Utah,412,194
+254,Alzheimer's disease (G30),Alzheimer's disease,Vermont,269,329
+255,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1642,197
+256,Alzheimer's disease (G30),Alzheimer's disease,Washington,3277,436
+257,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,590,246
+258,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1671,227
+259,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,126,210
+260,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1390,272
+261,Alzheimer's disease (G30),Alzheimer's disease,Alaska,102,272
+262,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2160,300
+263,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,931,279
+264,Alzheimer's disease (G30),Alzheimer's disease,California,11649,300
+265,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1322,284
+266,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,842,168
+267,Alzheimer's disease (G30),Alzheimer's disease,Delaware,213,202
+268,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,129,205
+269,Alzheimer's disease (G30),Alzheimer's disease,Florida,4422,152
+270,Alzheimer's disease (G30),Alzheimer's disease,Georgia,2074,262
+271,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,249,124
+272,Alzheimer's disease (G30),Alzheimer's disease,Idaho,354,219
+273,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2865,198
+274,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2038,281
+275,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1336,305
+276,Alzheimer's disease (G30),Alzheimer's disease,Kansas,789,225
+277,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1506,330
+278,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1399,316
+279,Alzheimer's disease (G30),Alzheimer's disease,Maine,432,235
+280,Alzheimer's disease (G30),Alzheimer's disease,Maryland,906,147
+281,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1713,198
+282,Alzheimer's disease (G30),Alzheimer's disease,Michigan,3064,256
+283,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1445,222
+284,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,923,307
+285,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1863,259
+286,Alzheimer's disease (G30),Alzheimer's disease,Montana,265,208
+287,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,570,244
+288,Alzheimer's disease (G30),Alzheimer's disease,Nevada,356,153
+289,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,392,251
+290,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1881,171
+291,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,373,171
+292,Alzheimer's disease (G30),Alzheimer's disease,New York,2640,109
+293,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2850,284
+294,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,364,366
+295,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3935,274
+296,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1069,263
+297,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1326,279
+298,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3505,189
+299,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,299,198
+300,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1634,336
+301,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,460,394
+302,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2434,363
+303,Alzheimer's disease (G30),Alzheimer's disease,Texas,5175,246
+304,Alzheimer's disease (G30),Alzheimer's disease,United States,83637,238
+305,Alzheimer's disease (G30),Alzheimer's disease,Utah,411,199
+306,Alzheimer's disease (G30),Alzheimer's disease,Vermont,284,353
+307,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1712,212
+308,Alzheimer's disease (G30),Alzheimer's disease,Washington,3219,438
+309,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,598,253
+310,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1646,226
+311,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,123,215
+312,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1486,297
+313,Alzheimer's disease (G30),Alzheimer's disease,Alaska,72,205
+314,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2348,337
+315,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1002,304
+316,Alzheimer's disease (G30),Alzheimer's disease,California,11555,307
+317,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1307,290
+318,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,813,164
+319,Alzheimer's disease (G30),Alzheimer's disease,Delaware,203,200
+320,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,120,196
+321,Alzheimer's disease (G30),Alzheimer's disease,Florida,4507,160
+322,Alzheimer's disease (G30),Alzheimer's disease,Georgia,2218,289
+323,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,197,104
+324,Alzheimer's disease (G30),Alzheimer's disease,Idaho,409,257
+325,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2910,204
+326,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2058,289
+327,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1406,324
+328,Alzheimer's disease (G30),Alzheimer's disease,Kansas,795,226
+329,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1459,325
+330,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1406,324
+331,Alzheimer's disease (G30),Alzheimer's disease,Maine,481,268
+332,Alzheimer's disease (G30),Alzheimer's disease,Maryland,922,151
+333,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1819,212
+334,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2876,246
+335,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1451,228
+336,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,975,336
+337,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1927,274
+338,Alzheimer's disease (G30),Alzheimer's disease,Montana,258,207
+339,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,597,260
+340,Alzheimer's disease (G30),Alzheimer's disease,Nevada,349,158
+341,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,395,257
+342,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1960,182
+343,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,423,198
+344,Alzheimer's disease (G30),Alzheimer's disease,New York,2563,108
+345,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2828,293
+346,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,410,415
+347,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4037,285
+348,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1130,282
+349,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1324,283
+350,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3496,191
+351,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,320,211
+352,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1560,331
+353,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,424,367
+354,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2589,395
+355,Alzheimer's disease (G30),Alzheimer's disease,Texas,5415,266
+356,Alzheimer's disease (G30),Alzheimer's disease,United States,84974,247
+357,Alzheimer's disease (G30),Alzheimer's disease,Utah,402,200
+358,Alzheimer's disease (G30),Alzheimer's disease,Vermont,257,325
+359,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1807,231
+360,Alzheimer's disease (G30),Alzheimer's disease,Washington,3138,434
+361,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,610,262
+362,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1807,253
+363,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,153,277
+364,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1523,312
+365,Alzheimer's disease (G30),Alzheimer's disease,Alaska,85,259
+366,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2327,353
+367,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,955,296
+368,Alzheimer's disease (G30),Alzheimer's disease,California,10856,301
+369,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1334,311
+370,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,820,171
+371,Alzheimer's disease (G30),Alzheimer's disease,Delaware,215,219
+372,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,114,187
+373,Alzheimer's disease (G30),Alzheimer's disease,Florida,4831,181
+374,Alzheimer's disease (G30),Alzheimer's disease,Georgia,2080,283
+375,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,189,105
+376,Alzheimer's disease (G30),Alzheimer's disease,Idaho,410,268
+377,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2927,209
+378,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1940,278
+379,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1411,329
+380,Alzheimer's disease (G30),Alzheimer's disease,Kansas,825,242
+381,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1464,335
+382,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1295,308
+383,Alzheimer's disease (G30),Alzheimer's disease,Maine,502,286
+384,Alzheimer's disease (G30),Alzheimer's disease,Maryland,986,168
+385,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1773,212
+386,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2736,240
+387,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1451,234
+388,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,927,326
+389,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1986,288
+390,Alzheimer's disease (G30),Alzheimer's disease,Montana,302,252
+391,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,565,249
+392,Alzheimer's disease (G30),Alzheimer's disease,Nevada,296,142
+393,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,396,269
+394,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1878,177
+395,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,343,168
+396,Alzheimer's disease (G30),Alzheimer's disease,New York,2616,113
+397,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2817,303
+398,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,361,372
+399,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4109,297
+400,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1015,261
+401,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1300,285
+402,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3591,200
+403,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,338,226
+404,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1570,347
+405,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,398,359
+406,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2440,385
+407,Alzheimer's disease (G30),Alzheimer's disease,Texas,5209,268
+408,Alzheimer's disease (G30),Alzheimer's disease,United States,83494,251
+409,Alzheimer's disease (G30),Alzheimer's disease,Utah,375,193
+410,Alzheimer's disease (G30),Alzheimer's disease,Vermont,238,308
+411,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1848,245
+412,Alzheimer's disease (G30),Alzheimer's disease,Washington,3025,436
+413,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,594,260
+414,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1762,253
+415,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,146,272
+416,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1521,316
+417,Alzheimer's disease (G30),Alzheimer's disease,Alaska,67,215
+418,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2097,327
+419,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,885,278
+420,Alzheimer's disease (G30),Alzheimer's disease,California,9905,281
+421,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1319,314
+422,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,778,163
+423,Alzheimer's disease (G30),Alzheimer's disease,Delaware,163,169
+424,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,94,157
+425,Alzheimer's disease (G30),Alzheimer's disease,Florida,4617,176
+426,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1865,259
+427,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,253,148
+428,Alzheimer's disease (G30),Alzheimer's disease,Idaho,369,247
+429,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2891,210
+430,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1884,274
+431,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1265,299
+432,Alzheimer's disease (G30),Alzheimer's disease,Kansas,802,239
+433,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1345,313
+434,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1336,323
+435,Alzheimer's disease (G30),Alzheimer's disease,Maine,466,269
+436,Alzheimer's disease (G30),Alzheimer's disease,Maryland,937,163
+437,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1700,206
+438,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2578,229
+439,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1358,222
+440,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,900,321
+441,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1728,255
+442,Alzheimer's disease (G30),Alzheimer's disease,Montana,256,216
+443,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,573,256
+444,Alzheimer's disease (G30),Alzheimer's disease,Nevada,312,155
+445,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,367,250
+446,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1872,179
+447,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,373,186
+448,Alzheimer's disease (G30),Alzheimer's disease,New York,2396,105
+449,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2646,292
+450,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,366,390
+451,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3879,285
+452,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,993,258
+453,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1212,273
+454,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3547,200
+455,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,321,217
+456,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1478,334
+457,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,403,368
+458,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2203,354
+459,Alzheimer's disease (G30),Alzheimer's disease,Texas,5064,266
+460,Alzheimer's disease (G30),Alzheimer's disease,United States,79003,242
+461,Alzheimer's disease (G30),Alzheimer's disease,Utah,371,196
+462,Alzheimer's disease (G30),Alzheimer's disease,Vermont,190,255
+463,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1738,235
+464,Alzheimer's disease (G30),Alzheimer's disease,Washington,3010,446
+465,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,563,249
+466,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1611,233
+467,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,136,258
+468,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1518,321
+469,Alzheimer's disease (G30),Alzheimer's disease,Alaska,80,270
+470,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2099,340
+471,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,893,284
+472,Alzheimer's disease (G30),Alzheimer's disease,California,10098,295
+473,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1353,334
+474,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,839,178
+475,Alzheimer's disease (G30),Alzheimer's disease,Delaware,204,217
+476,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,132,225
+477,Alzheimer's disease (G30),Alzheimer's disease,Florida,4743,186
+478,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1929,275
+479,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,218,133
+480,Alzheimer's disease (G30),Alzheimer's disease,Idaho,393,272
+481,Alzheimer's disease (G30),Alzheimer's disease,Illinois,3192,236
+482,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1971,293
+483,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1332,315
+484,Alzheimer's disease (G30),Alzheimer's disease,Kansas,961,288
+485,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1370,323
+486,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1361,334
+487,Alzheimer's disease (G30),Alzheimer's disease,Maine,450,263
+488,Alzheimer's disease (G30),Alzheimer's disease,Maryland,1016,182
+489,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1832,225
+490,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2739,248
+491,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1344,223
+492,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,916,329
+493,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2010,300
+494,Alzheimer's disease (G30),Alzheimer's disease,Montana,294,254
+495,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,610,273
+496,Alzheimer's disease (G30),Alzheimer's disease,Nevada,279,145
+497,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,393,274
+498,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1857,182
+499,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,366,190
+500,Alzheimer's disease (G30),Alzheimer's disease,New York,2303,103
+501,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2624,298
+502,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,312,331
+503,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4285,320
+504,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1061,280
+505,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1302,298
+506,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3863,221
+507,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,359,244
+508,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1492,347
+509,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,402,374
+510,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2423,399
+511,Alzheimer's disease (G30),Alzheimer's disease,Texas,5280,286
+512,Alzheimer's disease (G30),Alzheimer's disease,United States,82435,258
+513,Alzheimer's disease (G30),Alzheimer's disease,Utah,409,225
+514,Alzheimer's disease (G30),Alzheimer's disease,Vermont,218,298
+515,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1763,246
+516,Alzheimer's disease (G30),Alzheimer's disease,Washington,3105,471
+517,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,662,297
+518,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1655,244
+519,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,125,243
+520,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1517,326
+521,Alzheimer's disease (G30),Alzheimer's disease,Alaska,65,224
+522,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2051,342
+523,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,824,265
+524,Alzheimer's disease (G30),Alzheimer's disease,California,8497,256
+525,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1109,283
+526,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,764,166
+527,Alzheimer's disease (G30),Alzheimer's disease,Delaware,201,221
+528,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,140,240
+529,Alzheimer's disease (G30),Alzheimer's disease,Florida,4644,187
+530,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1849,272
+531,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,247,157
+532,Alzheimer's disease (G30),Alzheimer's disease,Idaho,416,294
+533,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2734,205
+534,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1663,251
+535,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1202,287
+536,Alzheimer's disease (G30),Alzheimer's disease,Kansas,860,258
+537,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1198,287
+538,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1324,333
+539,Alzheimer's disease (G30),Alzheimer's disease,Maine,470,281
+540,Alzheimer's disease (G30),Alzheimer's disease,Maryland,881,162
+541,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1695,211
+542,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2432,224
+543,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1179,199
+544,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,797,289
+545,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1681,255
+546,Alzheimer's disease (G30),Alzheimer's disease,Montana,260,226
+547,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,512,235
+548,Alzheimer's disease (G30),Alzheimer's disease,Nevada,248,134
+549,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,418,295
+550,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1823,182
+551,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,322,171
+552,Alzheimer's disease (G30),Alzheimer's disease,New York,1999,91
+553,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2460,287
+554,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,395,420
+555,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3671,279
+556,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,927,248
+557,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1200,279
+558,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3505,203
+559,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,328,222
+560,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1396,336
+561,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,346,321
+562,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2276,382
+563,Alzheimer's disease (G30),Alzheimer's disease,Texas,4814,268
+564,Alzheimer's disease (G30),Alzheimer's disease,United States,74632,238
+565,Alzheimer's disease (G30),Alzheimer's disease,Utah,393,221
+566,Alzheimer's disease (G30),Alzheimer's disease,Vermont,205,287
+567,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1703,244
+568,Alzheimer's disease (G30),Alzheimer's disease,Washington,2689,418
+569,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,534,242
+570,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1658,247
+571,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,110,220
+572,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1497,327
+573,Alzheimer's disease (G30),Alzheimer's disease,Alaska,73,259
+574,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2066,358
+575,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,783,255
+576,Alzheimer's disease (G30),Alzheimer's disease,California,8146,253
+577,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1058,281
+578,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,728,160
+579,Alzheimer's disease (G30),Alzheimer's disease,Delaware,189,216
+580,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,117,207
+581,Alzheimer's disease (G30),Alzheimer's disease,Florida,4689,193
+582,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1820,275
+583,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,201,132
+584,Alzheimer's disease (G30),Alzheimer's disease,Idaho,400,290
+585,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2794,213
+586,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1696,261
+587,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1121,270
+588,Alzheimer's disease (G30),Alzheimer's disease,Kansas,830,251
+589,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1153,281
+590,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1282,329
+591,Alzheimer's disease (G30),Alzheimer's disease,Maine,477,292
+592,Alzheimer's disease (G30),Alzheimer's disease,Maryland,915,173
+593,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1560,198
+594,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2331,220
+595,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1299,226
+596,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,744,274
+597,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1632,251
+598,Alzheimer's disease (G30),Alzheimer's disease,Montana,226,201
+599,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,500,233
+600,Alzheimer's disease (G30),Alzheimer's disease,Nevada,281,159
+601,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,372,271
+602,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1649,169
+603,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,348,193
+604,Alzheimer's disease (G30),Alzheimer's disease,New York,2021,94
+605,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2265,273
+606,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,318,344
+607,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3565,277
+608,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,928,252
+609,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1231,294
+610,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3311,196
+611,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,297,204
+612,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1364,341
+613,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,329,310
+614,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2115,363
+615,Alzheimer's disease (G30),Alzheimer's disease,Texas,4887,279
+616,Alzheimer's disease (G30),Alzheimer's disease,United States,72432,237
+617,Alzheimer's disease (G30),Alzheimer's disease,Utah,390,227
+618,Alzheimer's disease (G30),Alzheimer's disease,Vermont,186,265
+619,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1574,232
+620,Alzheimer's disease (G30),Alzheimer's disease,Washington,2470,393
+621,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,496,228
+622,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1596,244
+623,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,112,227
+624,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1501,334
+625,Alzheimer's disease (G30),Alzheimer's disease,Alaska,61,222
+626,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1831,330
+627,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,686,228
+628,Alzheimer's disease (G30),Alzheimer's disease,California,7706,246
+629,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1064,295
+630,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,777,174
+631,Alzheimer's disease (G30),Alzheimer's disease,Delaware,180,212
+632,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,112,197
+633,Alzheimer's disease (G30),Alzheimer's disease,Florida,4608,194
+634,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1745,274
+635,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,192,131
+636,Alzheimer's disease (G30),Alzheimer's disease,Idaho,407,307
+637,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2827,219
+638,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1651,260
+639,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1082,265
+640,Alzheimer's disease (G30),Alzheimer's disease,Kansas,912,281
+641,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1147,287
+642,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1405,348
+643,Alzheimer's disease (G30),Alzheimer's disease,Maine,476,299
+644,Alzheimer's disease (G30),Alzheimer's disease,Maryland,958,187
+645,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1638,211
+646,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2359,229
+647,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1320,235
+648,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,721,266
+649,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1635,256
+650,Alzheimer's disease (G30),Alzheimer's disease,Montana,267,246
+651,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,473,223
+652,Alzheimer's disease (G30),Alzheimer's disease,Nevada,310,181
+653,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,376,283
+654,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1815,190
+655,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,327,187
+656,Alzheimer's disease (G30),Alzheimer's disease,New York,2065,97
+657,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2417,305
+658,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,287,315
+659,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3478,277
+660,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1012,280
+661,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1239,305
+662,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3429,207
+663,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,298,209
+664,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1316,343
+665,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,290,283
+666,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2033,361
+667,Alzheimer's disease (G30),Alzheimer's disease,Texas,4629,274
+668,Alzheimer's disease (G30),Alzheimer's disease,United States,71599,240
+669,Alzheimer's disease (G30),Alzheimer's disease,Utah,368,224
+670,Alzheimer's disease (G30),Alzheimer's disease,Vermont,184,271
+671,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1550,236
+672,Alzheimer's disease (G30),Alzheimer's disease,Washington,2309,382
+673,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,504,236
+674,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1512,235
+675,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,110,228
+676,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1385,314
+677,Alzheimer's disease (G30),Alzheimer's disease,Alaska,48,180
+678,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1675,316
+679,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,622,209
+680,Alzheimer's disease (G30),Alzheimer's disease,California,6964,229
+681,Alzheimer's disease (G30),Alzheimer's disease,Colorado,912,261
+682,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,684,157
+683,Alzheimer's disease (G30),Alzheimer's disease,Delaware,155,190
+684,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,119,212
+685,Alzheimer's disease (G30),Alzheimer's disease,Florida,4307,186
+686,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1710,278
+687,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,171,122
+688,Alzheimer's disease (G30),Alzheimer's disease,Idaho,343,267
+689,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2595,204
+690,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1552,249
+691,Alzheimer's disease (G30),Alzheimer's disease,Iowa,968,240
+692,Alzheimer's disease (G30),Alzheimer's disease,Kansas,769,241
+693,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,982,251
+694,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1267,320
+695,Alzheimer's disease (G30),Alzheimer's disease,Maine,512,327
+696,Alzheimer's disease (G30),Alzheimer's disease,Maryland,905,183
+697,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1673,220
+698,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2232,220
+699,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1231,223
+700,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,630,237
+701,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1381,219
+702,Alzheimer's disease (G30),Alzheimer's disease,Montana,228,215
+703,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,459,220
+704,Alzheimer's disease (G30),Alzheimer's disease,Nevada,292,182
+705,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,331,259
+706,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1711,183
+707,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,328,193
+708,Alzheimer's disease (G30),Alzheimer's disease,New York,1989,95
+709,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2188,284
+710,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,313,344
+711,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2927,237
+712,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,867,242
+713,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1262,318
+714,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3277,202
+715,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,283,201
+716,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1245,333
+717,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,243,239
+718,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1615,293
+719,Alzheimer's disease (G30),Alzheimer's disease,Texas,4336,264
+720,Alzheimer's disease (G30),Alzheimer's disease,United States,65965,226
+721,Alzheimer's disease (G30),Alzheimer's disease,Utah,376,236
+722,Alzheimer's disease (G30),Alzheimer's disease,Vermont,173,259
+723,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1480,232
+724,Alzheimer's disease (G30),Alzheimer's disease,Washington,2233,379
+725,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,493,233
+726,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1419,225
+727,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,105,224
+728,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1268,288
+729,Alzheimer's disease (G30),Alzheimer's disease,Alaska,56,229
+730,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1703,329
+731,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,552,186
+732,Alzheimer's disease (G30),Alzheimer's disease,California,6585,220
+733,Alzheimer's disease (G30),Alzheimer's disease,Colorado,899,265
+734,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,612,142
+735,Alzheimer's disease (G30),Alzheimer's disease,Delaware,147,186
+736,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,95,170
+737,Alzheimer's disease (G30),Alzheimer's disease,Florida,4316,189
+738,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1630,269
+739,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,161,119
+740,Alzheimer's disease (G30),Alzheimer's disease,Idaho,355,283
+741,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2626,209
+742,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1515,246
+743,Alzheimer's disease (G30),Alzheimer's disease,Iowa,887,221
+744,Alzheimer's disease (G30),Alzheimer's disease,Kansas,781,247
+745,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1072,277
+746,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1184,300
+747,Alzheimer's disease (G30),Alzheimer's disease,Maine,467,302
+748,Alzheimer's disease (G30),Alzheimer's disease,Maryland,865,178
+749,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1609,213
+750,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2133,214
+751,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1243,227
+752,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,583,220
+753,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1293,206
+754,Alzheimer's disease (G30),Alzheimer's disease,Montana,235,227
+755,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,461,222
+756,Alzheimer's disease (G30),Alzheimer's disease,Nevada,309,196
+757,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,286,230
+758,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1636,177
+759,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,360,216
+760,Alzheimer's disease (G30),Alzheimer's disease,New York,1866,90
+761,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2145,283
+762,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,336,375
+763,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2902,237
+764,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,794,221
+765,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1157,298
+766,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,2952,183
+767,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,303,220
+768,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1051,288
+769,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,174,175
+770,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1466,269
+771,Alzheimer's disease (G30),Alzheimer's disease,Texas,4015,249
+772,Alzheimer's disease (G30),Alzheimer's disease,United States,63457,221
+773,Alzheimer's disease (G30),Alzheimer's disease,Utah,332,214
+774,Alzheimer's disease (G30),Alzheimer's disease,Vermont,171,259
+775,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1466,234
+776,Alzheimer's disease (G30),Alzheimer's disease,Washington,2380,414
+777,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,470,222
+778,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1411,226
+779,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,142,309
+780,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1189,270
+781,Alzheimer's disease (G30),Alzheimer's disease,Alaska,61,258
+782,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1433,287
+783,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,551,186
+784,Alzheimer's disease (G30),Alzheimer's disease,California,5421,186
+785,Alzheimer's disease (G30),Alzheimer's disease,Colorado,954,290
+786,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,570,136
+787,Alzheimer's disease (G30),Alzheimer's disease,Delaware,128,167
+788,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,107,190
+789,Alzheimer's disease (G30),Alzheimer's disease,Florida,4052,181
+790,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1525,255
+791,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,141,109
+792,Alzheimer's disease (G30),Alzheimer's disease,Idaho,318,261
+793,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2398,193
+794,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1475,243
+795,Alzheimer's disease (G30),Alzheimer's disease,Iowa,899,226
+796,Alzheimer's disease (G30),Alzheimer's disease,Kansas,755,241
+797,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1013,263
+798,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1111,285
+799,Alzheimer's disease (G30),Alzheimer's disease,Maine,513,336
+800,Alzheimer's disease (G30),Alzheimer's disease,Maryland,866,184
+801,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1570,212
+802,Alzheimer's disease (G30),Alzheimer's disease,Michigan,1958,200
+803,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1192,223
+804,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,574,216
+805,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1187,190
+806,Alzheimer's disease (G30),Alzheimer's disease,Montana,285,279
+807,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,460,223
+808,Alzheimer's disease (G30),Alzheimer's disease,Nevada,253,173
+809,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,311,256
+810,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1522,167
+811,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,325,199
+812,Alzheimer's disease (G30),Alzheimer's disease,New York,1803,89
+813,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,1962,266
+814,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,294,337
+815,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2599,217
+816,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,754,211
+817,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1124,296
+818,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,2823,178
+819,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,264,195
+820,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,967,271
+821,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,167,170
+822,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1299,240
+823,Alzheimer's disease (G30),Alzheimer's disease,Texas,3793,239
+824,Alzheimer's disease (G30),Alzheimer's disease,United States,58866,208
+825,Alzheimer's disease (G30),Alzheimer's disease,Utah,303,199
+826,Alzheimer's disease (G30),Alzheimer's disease,Vermont,163,252
+827,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1368,224
+828,Alzheimer's disease (G30),Alzheimer's disease,Washington,2195,390
+829,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,405,192
+830,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1344,220
+831,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,122,270
+832,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1103,251
+833,Alzheimer's disease (G30),Alzheimer's disease,Alaska,44,189
+834,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1108,227
+835,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,452,153
+836,Alzheimer's disease (G30),Alzheimer's disease,California,4935,172
+837,Alzheimer's disease (G30),Alzheimer's disease,Colorado,852,264
+838,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,573,140
+839,Alzheimer's disease (G30),Alzheimer's disease,Delaware,135,180
+840,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,99,175
+841,Alzheimer's disease (G30),Alzheimer's disease,Florida,3643,164
+842,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1419,241
+843,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,122,98
+844,Alzheimer's disease (G30),Alzheimer's disease,Idaho,294,247
+845,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2163,175
+846,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1231,205
+847,Alzheimer's disease (G30),Alzheimer's disease,Iowa,863,218
+848,Alzheimer's disease (G30),Alzheimer's disease,Kansas,642,205
+849,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,966,251
+850,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,957,246
+851,Alzheimer's disease (G30),Alzheimer's disease,Maine,471,313
+852,Alzheimer's disease (G30),Alzheimer's disease,Maryland,948,205
+853,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1533,209
+854,Alzheimer's disease (G30),Alzheimer's disease,Michigan,1803,188
+855,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1173,221
+856,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,449,168
+857,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1106,178
+858,Alzheimer's disease (G30),Alzheimer's disease,Montana,249,249
+859,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,430,210
+860,Alzheimer's disease (G30),Alzheimer's disease,Nevada,211,149
+861,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,305,256
+862,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1376,153
+863,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,297,186
+864,Alzheimer's disease (G30),Alzheimer's disease,New York,1705,85
+865,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,1786,246
+866,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,224,255
+867,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2367,200
+868,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,682,190
+869,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1030,276
+870,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,2753,176
+871,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,251,188
+872,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,881,249
+873,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,156,160
+874,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1148,212
+875,Alzheimer's disease (G30),Alzheimer's disease,Texas,3439,219
+876,Alzheimer's disease (G30),Alzheimer's disease,United States,53852,193
+877,Alzheimer's disease (G30),Alzheimer's disease,Utah,314,210
+878,Alzheimer's disease (G30),Alzheimer's disease,Vermont,149,233
+879,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1184,198
+880,Alzheimer's disease (G30),Alzheimer's disease,Washington,2050,371
+881,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,398,190
+882,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1269,211
+883,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,114,254
+884,Alzheimer's disease (G30),Alzheimer's disease,Alabama,895,204
+885,Alzheimer's disease (G30),Alzheimer's disease,Alaska,47,215
+886,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1045,220
+887,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,430,146
+888,Alzheimer's disease (G30),Alzheimer's disease,California,4419,158
+889,Alzheimer's disease (G30),Alzheimer's disease,Colorado,712,226
+890,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,526,131
+891,Alzheimer's disease (G30),Alzheimer's disease,Delaware,110,151
+892,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,75,131
+893,Alzheimer's disease (G30),Alzheimer's disease,Florida,3265,150
+894,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1235,213
+895,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,118,100
+896,Alzheimer's disease (G30),Alzheimer's disease,Idaho,262,226
+897,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2154,177
+898,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1209,204
+899,Alzheimer's disease (G30),Alzheimer's disease,Iowa,769,197
+900,Alzheimer's disease (G30),Alzheimer's disease,Kansas,630,202
+901,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,845,221
+902,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,811,209
+903,Alzheimer's disease (G30),Alzheimer's disease,Maine,466,316
+904,Alzheimer's disease (G30),Alzheimer's disease,Maryland,811,180
+905,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1433,198
+906,Alzheimer's disease (G30),Alzheimer's disease,Michigan,1646,175
+907,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1154,222
+908,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,443,165
+909,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1096,178
+910,Alzheimer's disease (G30),Alzheimer's disease,Montana,219,224
+911,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,353,174
+912,Alzheimer's disease (G30),Alzheimer's disease,Nevada,195,145
+913,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,273,234
+914,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1267,144
+915,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,275,177
+916,Alzheimer's disease (G30),Alzheimer's disease,New York,1539,78
+917,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,1725,243
+918,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,209,240
+919,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2295,197
+920,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,638,177
+921,Alzheimer's disease (G30),Alzheimer's disease,Oregon,910,250
+922,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,2542,165
+923,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,242,184
+924,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,874,251
+925,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,179,185
+926,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1024,192
+927,Alzheimer's disease (G30),Alzheimer's disease,Texas,3184,205
+928,Alzheimer's disease (G30),Alzheimer's disease,United States,49558,181
+929,Alzheimer's disease (G30),Alzheimer's disease,Utah,342,236
+930,Alzheimer's disease (G30),Alzheimer's disease,Vermont,134,213
+931,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1094,187
+932,Alzheimer's disease (G30),Alzheimer's disease,Washington,1799,334
+933,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,361,172
+934,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1177,199
+935,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,102,231
