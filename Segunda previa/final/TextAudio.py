@@ -11,3 +11,6 @@ with sr.Microphone() as source:
         print('lo que dijiste fue: {}'.format(text))
     except:
         print('lo siento no puedo entendderlo')
+
+
+        print HKEY_LOCAL_MACHINE
