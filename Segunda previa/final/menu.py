@@ -45,7 +45,7 @@ def menu(argument):
         
 def main():
     print('Ingrese la opción que necesita:')
-    print('0: Record your voice')
+    print('0: Record voice')
     print('1: From and external audio')
     option = input()
     if((int(option) == 0) or (int(option) == 1)):
