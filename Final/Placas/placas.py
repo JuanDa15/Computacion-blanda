@@ -1,3 +1,4 @@
+#importacion de librerias.
 import cv2
 import pytesseract
 
@@ -6,20 +7,22 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 placa = []
 
 # Lectura de la imagen
-image = cv2.imread('auto001.jpg')
+image = cv2.imread('auto003.jpg')
 
 # Conversión a escala de grises
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+cv2.imshow('Imagen',gray)
 
 # Proceso de suavizado de la imagen
 gray = cv2.blur(gray,(3,3))
+cv2.imshow('Imagen2',gray)
 
 # Algoritmo de detección de bordes
 canny = cv2.Canny(gray,150,200)
-
+cv2.imshow('Imagen3',canny)
 # Algoritmo para resaltar los bordes detectados
 canny = cv2.dilate(canny,None,iterations=1)
-
+cv2.imshow('Imagen4',canny)
 # Algoritmo para unir de manera continua los contornos
 # Encuentra todos los contornos presentes en la imagen
 #_,cnts,_ = cv2.findContours(canny,cv2.RETR_LIST,cv2.CHAIN_APPROX_SIMPLE)
@@ -30,7 +33,7 @@ cnts,_ = cv2.findContours(canny,cv2.RETR_LIST,cv2.CHAIN_APPROX_SIMPLE)
 for c in cnts:
     # Encuentra el área del contorno
     area = cv2.contourArea(c)
-        
+
     # Calcula el rectángulo del contorno
     x,y,w,h = cv2.boundingRect(c)
     epsilon = 0.09*cv2.arcLength(c,True)
@@ -43,11 +46,11 @@ for c in cnts:
         print('area=',area)
         
         # Calcula la relación anchura-altura
-        #cv2.drawContours(image,[approx],0,(0,255,0),3)
+        cv2.drawContours(image,[approx],0,(0,255,0),3)
         aspect_ratio = float(w)/h
         
-        # Si la relación es 2.4, el rectángulo es muy parecido a la placa
-        if aspect_ratio>2.4:
+        # Si la relación es 1.5, el rectángulo es muy parecido a la placa
+        if aspect_ratio>1.5:
         
             # En las siguientes instrucciones se imprimen los datos de la placa 
             # y se la muestra en una ventana
