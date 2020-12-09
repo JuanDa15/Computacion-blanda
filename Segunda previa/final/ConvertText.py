@@ -12,7 +12,7 @@ def ConvertAUDIO(filename,name):    #Receive the filename with the extension and
         
         try:    #We use the try in case the audio has nothing to convert
             print("reading audio file. Please, wait a second...")
-            text = r.recognize_google(audio,language="es-ES") #We use the google recognition to convert
+            text = r.recognize_google(audio,language="en-EU") #We use the google recognition to convert
             time.sleep(1.5)
             print('presione 1 to create a pdf, press 2 for show in console. ')
             opcion = input()

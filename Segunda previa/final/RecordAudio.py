@@ -8,7 +8,7 @@ from playsound import playsound
 def RecordAudio(RecordSeconds, filename):
     #Constants declarations
     FORMAT = pyaudio.paInt16 #set the sample format
-    CHANNELS = 2 #Set the 2 channels for audio stereo, one channel for mono
+    CHANNELS = 1 #Set the 2 channels for audio stereo, one channel for mono
     RATE = 48000 #Samples per second
     BUFFER = 1024 #Set the buffer size of 1024 samples
     RECORD_SECONDS = RecordSeconds #Audio duration
