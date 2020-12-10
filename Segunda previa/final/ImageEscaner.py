@@ -19,7 +19,7 @@ def ordenar_puntos(puntos):
 
 
 
-image = cv2.imread(r"C:\Users\Jdoo1\Documents\Computacion-blanda\img_01.jpeg")
+image = cv2.imread(r"E:\JuanDavid\Computacion-blanda\img-003.JPG")
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 canny = cv2.Canny(gray, 10, 150)
@@ -48,7 +48,7 @@ for c in cnts:
         dst = cv2.warpPerspective(gray,M,(270,310))
         cv2.imshow('dst', dst)
         
-        texto = pytesseract.image_to_string(dst, config='--psm 11')
+        texto = pytesseract.image_to_string(dst, lang='spa')
         print('texto: ', texto)
 
 cv2.imshow('Image', image)
