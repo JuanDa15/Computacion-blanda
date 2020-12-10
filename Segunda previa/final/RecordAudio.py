@@ -50,6 +50,8 @@ def RecordAudio(RecordSeconds, filename):
     wf.setframerate(RATE) #set the sample rate
     wf.writeframes(b"".join(frames)) #write the frames as bytes
     wf.close() #close the file
+
+    return "paInt16",RATE
     
 #Function to play de audio 
 def PlayAudio(filename):

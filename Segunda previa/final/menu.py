@@ -1,5 +1,6 @@
 import RecordAudio 
 import ConvertText 
+from scipy.io import wavfile
 
 def zero():
     print('write record time duration: ')
@@ -7,14 +8,14 @@ def zero():
     print('write the name of the output file: ')
     name = input()
     filename = name + '.wav'
-    RecordAudio.RecordAudio(int(RECORD_TIME),filename)
+    type,rate = RecordAudio.RecordAudio(int(RECORD_TIME),filename)
 
     print('Press 1 if want to heard the audio or 0 to continue')
     option = input()
     if(int(option) == 1):
         RecordAudio.PlayAudio(filename)
-        
-    ConvertText.ConvertAUDIO(filename,name)
+    ConvertText.ConvertAUDIO(filename,name,[type, RECORD_TIME ,str(rate)])
+    
 
 
 def one():
@@ -26,15 +27,22 @@ def one():
         print("write the file name: ")
         name = input()
         filename = name + '.wav'
-        ConvertText.ConvertAUDIO(filename,name)
+        frecuencia_muestreo, senial = wavfile.read(path)
+        ConvertText.ConvertAUDIO(filename,name,[str(senial.dtype),str(round(senial.shape[0] / float(frecuencia_muestreo),2)),str(frecuencia_muestreo)])
     elif(int(option) == 2):
         print("write the full file path: ")
         path = input()
-        ConvertText.ConvertAUDIO(path,'textfile')
+        frecuencia_muestreo, senial = wavfile.read(path)
+        ConvertText.ConvertAUDIO(path,'textfile',[str(senial.dtype),str(round(senial.shape[0] / float(frecuencia_muestreo),2)),str(frecuencia_muestreo)])
+
+
+def two():
+    
 
 switcher = {
     0:zero,
-    1:one
+    1:one,
+    2:two
 }
 
 def menu(argument):
