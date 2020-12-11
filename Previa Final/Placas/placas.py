@@ -13,26 +13,26 @@ cv2.imshow('imagen',image)
 
 # Conversión a escala de grises
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-#cv2.imshow('Imagen',gray)
+cv2.imshow('Imagen',gray)
 
 # Proceso de suavizado de la imagen
 gray = cv2.blur(gray,(3,3))
-#cv2.imshow('Imagen2',gray)
+cv2.imshow('Imagen2',gray)
 
 # Algoritmo de detección de bordes
 #De la imagen suavisada, la convierte en una imagen que tenga los bordes marcados
 canny = cv2.Canny(gray,150,200)
-#cv2.imshow('Imagen3',canny)
+cv2.imshow('Imagen3',canny)
 # Algoritmo para resaltar los bordes detectados
 canny = cv2.dilate(canny,None,iterations=1)
-#cv2.imshow('Imagen4',canny)
+cv2.imshow('Imagen4',canny)
 # Algoritmo para unir de manera continua los contornos
 # Encuentra todos los contornos presentes en la imagen
 #_,cnts,_ = cv2.findContours(canny,cv2.RETR_LIST,cv2.CHAIN_APPROX_SIMPLE)
 cnts,_ = cv2.findContours(canny,cv2.RETR_LIST,cv2.CHAIN_APPROX_SIMPLE)
 
 # Función para dibujar todos los contornos encontrados
-#cv2.drawContours(image,cnts,-1,(0,255,0),2)
+cv2.drawContours(image,cnts,-1,(0,255,0),2)
 for c in cnts:
     # Encuentra el área del contorno
     area = cv2.contourArea(c)
@@ -66,7 +66,7 @@ for c in cnts:
             print('PLACA: ',text)
 
             # Se muestra una imagen de la placa
-            #cv2.imshow('PLACA',placa)
+            cv2.imshow('PLACA',placa)
 
             # Se agrega un texto a la imagen, indicando los datos encontrados
             cv2.moveWindow('PLACA',780,10)
@@ -74,7 +74,7 @@ for c in cnts:
             cv2.putText(image,text,(x-20,y-10),1,2.2,(0,255,0),3)
 
 # Se muestran los datos obtenidos
-#cv2.imshow('Image',image)
+cv2.imshow('Image',image)
 cv2.moveWindow('Image',45,10)
 cv2.waitKey(0)
 print(placa)
