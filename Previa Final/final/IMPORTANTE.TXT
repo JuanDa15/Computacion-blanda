@@ -1,0 +1,7 @@
+Para la ejecucion del programa se debe ejecutar el archivo menu.py
+
+o si no al final de cada archivo esta comentada la linea de ejecucion de ese programa en especifico:
+ConvertText.py
+ImageEscaner.py
+RecordAudio.py
+

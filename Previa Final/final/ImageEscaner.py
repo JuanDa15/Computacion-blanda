@@ -62,3 +62,4 @@ def Scanner(path):
     cv2.destroyAllWindows()
 
 
+#Scanner(r'C:\Users\Jdoo1\Documents\Computacion-blanda\img-004.JPG')

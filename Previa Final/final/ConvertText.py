@@ -73,3 +73,5 @@ def ConvertAUDIO(filename,name,array):    # Recibe el nombre del archivo con ext
         except: #In case the audio recognizer can understant the audio
             print("Lo siento , No puedo entender el audio")
     
+
+#ConvertAUDIO(r'C:\Users\Jdoo1\Documents\Computacion-blanda\prueba2.wav',prueba2,[ 48000 (frecuencia muestreo),5 (Duracion señal)])

@@ -57,3 +57,5 @@ def Record(RecordSeconds, filename):
 #Function to play de audio 
 def PlayAudio(filename):
     playsound(filename)
+
+#Record(5, prueba3)
